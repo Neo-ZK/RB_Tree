@@ -1,5 +1,5 @@
-#ifndef RB_TREE
-#define RB_TREE
+#ifndef RB_TREE_H
+#define RB_TREE_H
 #pragma once
 #include "RB_Tree_Node.h"
 #include "RB_Tree_Node.cpp"
