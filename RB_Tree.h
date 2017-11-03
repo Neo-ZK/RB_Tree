@@ -1,3 +1,5 @@
+#ifndef RB_TREE
+#define RB_TREE
 #pragma once
 #include "RB_Tree_Node.h"
 #include "RB_Tree_Node.cpp"
@@ -18,3 +20,4 @@ public:
 	RB_Tree_Node<T>* Root_Node;	
 };
 
+#endif
